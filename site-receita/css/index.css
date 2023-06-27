@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.grupo-esquerdo, .grupo-direito a img{
+  width: 45%;
+}
+
+.grupo-esquerdo a img {
+  float: left;
+}
+
+.grupo-direito a img{
+  float: right;
+}
+
